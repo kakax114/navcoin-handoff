@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 108 108">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2 {
+        opacity: 0.12;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        stroke: #7d5ab5;
+      }
+
+      .cls-3, .cls-5 {
+        stroke-width: 3px;
+      }
+
+      .cls-4, .cls-5 {
+        stroke-linecap: round;
+      }
+
+      .cls-4 {
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2.5px;
+      }
+
+      .cls-6 {
+        stroke: none;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#004aff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#004aff"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_2555" data-name="Group 2555" transform="translate(61 -4330)">
+    <rect id="Rectangle_1053" data-name="Rectangle 1053" class="cls-1" width="108" height="108" transform="translate(-61 4330)"/>
+    <path id="Path_3287" data-name="Path 3287" class="cls-2" d="M36,0A36,36,0,1,1,0,36,36,36,0,0,1,36,0Z" transform="translate(-25 4348)"/>
+    <g id="Group_2547" data-name="Group 2547" transform="translate(-61 4352.178)">
+      <g id="Rectangle_1043" data-name="Rectangle 1043" class="cls-3" transform="translate(0 0)">
+        <rect class="cls-6" width="86.185" height="63.644" rx="14"/>
+        <rect class="cls-1" x="1.5" y="1.5" width="83.185" height="60.644" rx="12.5"/>
+      </g>
+      <path id="Path_3290" data-name="Path 3290" class="cls-4" d="M327.8,3605.4l20.457,11.332-20.457,10.6Z" transform="translate(-292.351 -3584.079)"/>
+    </g>
+    <path id="Path_3294" data-name="Path 3294" class="cls-5" d="M-3508.985,1370.865c0-13.246,4.56-13.211,13.74-13.211" transform="translate(3458.621 3005.566)"/>
+  </g>
+</svg>
