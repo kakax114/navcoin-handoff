@@ -463,3 +463,14 @@ zig-heading {
   }
 }
 
+.ex-box {
+  box-shadow:1px 13px 35px rgba(66,45,178,0.12);
+  margin:0px 0px 20px 0px;
+  border-radius:8px;
+  transition:all 0.3s ease;
+}
+
+.ex-box:hover {
+  transform:translate(0px,-5px);
+}
+
