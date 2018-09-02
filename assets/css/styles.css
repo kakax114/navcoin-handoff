@@ -446,7 +446,14 @@ zig-heading {
 
 @media (max-width: 767px) {
   .lt-box {
-    height:580px;
+    height:465px;
+  }
+}
+
+@media (max-width: 475px) {
+  .lt-box {
+    height:calc(940px - 100vw);
+    max-height:580px;
   }
 }
 
