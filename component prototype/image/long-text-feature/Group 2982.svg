@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 109.768 108">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        opacity: 0.12;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        stroke: #7d5ab5;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2.5px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#004aff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#004aff"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_2982" data-name="Group 2982" transform="translate(-5607.232 -732)">
+    <rect id="Rectangle_1066" data-name="Rectangle 1066" class="cls-1" width="108" height="108" transform="translate(5609 732)"/>
+    <path id="Path_3395" data-name="Path 3395" class="cls-2" d="M36,0A36,36,0,1,1,0,36,36,36,0,0,1,36,0Z" transform="translate(5645 750)"/>
+    <g id="Group_2976" data-name="Group 2976" transform="translate(-22.3 -126.3)">
+      <g id="Group_2969" data-name="Group 2969" transform="translate(3291.7 -1371.6)">
+        <g id="Group_1162" data-name="Group 1162">
+          <g id="Group_1158" data-name="Group 1158">
+            <g id="Group_1156" data-name="Group 1156">
+              <path id="Path_1411" data-name="Path 1411" class="cls-3" d="M2351.6,2267.9v-5h5.8"/>
+              <path id="Path_1412" data-name="Path 1412" class="cls-3" d="M2409.9,2267.9v-5h-5.8"/>
+            </g>
+            <g id="Group_1157" data-name="Group 1157">
+              <path id="Path_1413" data-name="Path 1413" class="cls-3" d="M2409.9,2281.6v5h-5.8"/>
+              <path id="Path_1414" data-name="Path 1414" class="cls-3" d="M2351.6,2281.6v5h5.8"/>
+            </g>
+            <path id="Path_1415" data-name="Path 1415" class="cls-3" d="M2390.4,2274.7a9.3,9.3,0,1,1-9.3-9.3A9.282,9.282,0,0,1,2390.4,2274.7Z"/>
+          </g>
+          <g id="Group_1159" data-name="Group 1159">
+            <path id="Path_1416" data-name="Path 1416" class="cls-3" d="M2417.3,2274.7v-18.5h-72.4v37h72.4Z"/>
+            <path id="Path_1417" data-name="Path 1417" class="cls-3" d="M2417.3,2274.7v18.5h-54.9v18.5h72.3v-37Z"/>
+          </g>
+          <g id="Group_1160" data-name="Group 1160">
+            <path id="Path_1418" data-name="Path 1418" class="cls-3" d="M2427.7,2300.1v5h-5.8"/>
+            <path id="Path_1419" data-name="Path 1419" class="cls-3" d="M2369.4,2300.1v5h5.8"/>
+          </g>
+          <g id="Group_1161" data-name="Group 1161">
+            <path id="Path_1420" data-name="Path 1420" class="cls-3" d="M2389.6,2293.2a9.3,9.3,0,0,0,18.6,0Z"/>
+          </g>
+          <path id="Path_1421" data-name="Path 1421" class="cls-3" d="M2427.7,2285.9v-5h-5.8"/>
+        </g>
+        <g id="Group_1163" data-name="Group 1163">
+          <line id="Line_847" data-name="Line 847" class="cls-3" x2="12.9" y2="12.8" transform="translate(2339.6 2300.1)"/>
+          <path id="Path_1422" data-name="Path 1422" class="cls-3" d="M2339.6,2309.9v-9.8h9.4"/>
+        </g>
+        <g id="Group_1164" data-name="Group 1164">
+          <line id="Line_848" data-name="Line 848" class="cls-3" x1="12.8" y1="12.9" transform="translate(2424.8 2253.9)"/>
+          <path id="Path_1423" data-name="Path 1423" class="cls-3" d="M2437.6,2257v9.8h-9.3"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

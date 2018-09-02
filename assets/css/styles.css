@@ -407,3 +407,52 @@ zig-heading {
   }
 }
 
+.lt-box {
+  box-shadow:1px 13px 35px rgba(66,45,178,0.12);
+  margin:0px 0px 20px 0px;
+  border-radius:8px;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  background-color:white;
+  border-radius:8px;
+  padding:23px;
+  height:580px;
+}
+
+.lt-icon {
+  margin-top:23px;
+}
+
+@media (max-width: 767px) {
+  .lt-icon {
+    margin:0;
+  }
+}
+
+.lt-heading {
+  font-family:raleway;
+  font-size:20px;
+  color:#7D5AB5;
+  margin:0;
+  margin:26px 0px;
+}
+
+@media (max-width: 767px) {
+  .lt-heading {
+    margin:15px 0px;
+  }
+}
+
+@media (max-width: 767px) {
+  .lt-box {
+    height:580px;
+  }
+}
+
+@media (max-width: 767px) {
+  .lt-button {
+    bottom:4%;
+  }
+}
+
