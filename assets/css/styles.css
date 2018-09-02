@@ -132,14 +132,11 @@
   margin-top:-50px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .gs-button {
     text-align:center;
+    margin:25px 0 55px 0px;
   }
-}
-
-.gs-button {
-  margin:25px 0;
 }
 
 .gd-wrapper {
@@ -273,7 +270,7 @@
 .col-md-8.zig-content {
   padding-left:55px;
   padding-top:80px;
-  padding-bottom:80px;
+  padding-bottom:50px;
   color:white;
 }
 
@@ -347,12 +344,47 @@ zig-heading {
 .bt-graident {
   background:linear-gradient(-60deg, rgba(68, 178, 233, 0.88) 0%, rgba(197, 41, 181, 0.88) 100%, rgba(197, 41, 181, 0.88) 102%);
   display:inline;
-  padding:10px 21px;
+  padding:16px 34px;
   margin:0;
-  border-radius:20px;
+  border-radius:50px;
   align-items:center;
   align-content:center;
   box-shadow:1px 13px 35px #422db23d;
-  font-size:13px;
+}
+
+.bt-text {
+  font-size:17px;
+  color:white;
+  font-family:raleway;
+  margin-right:15px;
+  display:inline-block;
+}
+
+@media (max-width: 767px) {
+  .bt-text {
+    font-size:13px;
+  }
+}
+
+.bt-arrow {
+  width:19px;
+  margin-bottom:4px;
+}
+
+@media (max-width: 767px) {
+  .bt-arrow {
+    width:12px;
+    margin-bottom:3px;
+  }
+}
+
+@media (max-width: 767px) {
+  .bt-graident {
+    padding:10px 21px;
+  }
+}
+
+.gs-button {
+  margin:40px 0px 55px 0px;
 }
 
