@@ -49,6 +49,7 @@
   margin-top:25px;
   font-family:roboto;
   color:#7D5AB5;
+  font-weight:300;
 }
 
 @media (max-width: 991px) {
@@ -81,6 +82,7 @@
   font-size:16px;
   color:#7D5AB5;
   line-height:23px;
+  font-weight:300;
 }
 
 @media (max-width: 768px) {
@@ -187,7 +189,6 @@
   margin:0 auto;
   display:flex;
   align-items:center;
-  padding:0 10px;
 }
 
 @media (max-width: 768px) {
@@ -229,6 +230,7 @@
   font-size:50px;
   margin:0;
   margin-bottom:36px;
+  font-family:raleway;
 }
 
 @media (max-width: 1024px) {
@@ -243,7 +245,8 @@
 
 @media (max-width: 768px) {
   .he-content {
-    padding:0 18px;
+    margin:0;
+    padding:0 20px;
     max-width:500px;
     margin-bottom:55px;
   }
@@ -261,5 +264,95 @@
     font-size:32px;
     margin-top:27px;
   }
+}
+
+.zig-icon {
+  margin:80px 0;
+}
+
+.col-md-8.zig-content {
+  padding-left:55px;
+  padding-top:80px;
+  padding-bottom:80px;
+  color:white;
+}
+
+@media (max-width: 767px) {
+  .col-md-8.zig-content {
+    padding:0px 20px;
+    max-width:500px;
+    margin:0 auto;
+  }
+}
+
+zig-heading {
+  font-family:raleway;
+  margin:0;
+  font-size:40px;
+  font-weight:500;
+  margin-bottom:32px;
+}
+
+zig-heading {
+  font-family:raleway;
+  margin:0;
+  font-size:40px;
+  font-weight:500;
+  margin-bottom:32px;
+}
+
+@media (max-width: 767px) {
+  .zig-icon {
+    margin:27px 0;
+  }
+}
+
+.zig-heading {
+  font-family:raleway;
+  font-size:40px;
+  margin-bottom:32px;
+  font-weight:600;
+  margin-top:0px;
+}
+
+.zig-icon-div {
+  width:234px;
+}
+
+@media (max-width: 767px) {
+  .zig-icon-div {
+    width:190px;
+  }
+}
+
+@media (max-width: 768px) {
+  .zig-heading {
+    font-size:27px;
+    text-align:center;
+  }
+}
+
+.bt-arrow {
+  width:12px;
+  margin-bottom:3px;
+}
+
+.bt-text {
+  color:white;
+  font-family:raleway;
+  margin-right:8px;
+  display:inline-block;
+}
+
+.bt-graident {
+  background:linear-gradient(-60deg, rgba(68, 178, 233, 0.88) 0%, rgba(197, 41, 181, 0.88) 100%, rgba(197, 41, 181, 0.88) 102%);
+  display:inline;
+  padding:10px 21px;
+  margin:0;
+  border-radius:20px;
+  align-items:center;
+  align-content:center;
+  box-shadow:1px 13px 35px #422db23d;
+  font-size:13px;
 }
 
