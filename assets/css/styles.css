@@ -496,7 +496,7 @@ zig-heading {
   box-shadow:1px 13px 35px rgba(66,45,178,0.12);
   margin:0px 0px 20px 0px;
   border-radius:8px;
-  transition:all 0.3s ease;
+  transition:transform 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55),-webkit-transform 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
 
 .ex-box:hover {
@@ -644,6 +644,18 @@ span {
   .sg-box {
     margin-bottom:9px;
     padding:15px 23px;
+  }
+}
+
+.row.footer-row {
+  max-width:1230px;
+  margin:0 auto;
+}
+
+@media (max-width: 1199px) {
+  .row.footer-row {
+    max-width:850px;
+    margin:0 auto;
   }
 }
 
