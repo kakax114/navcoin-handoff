@@ -3,6 +3,9 @@
 components demo:
 https://zen-sammet-063ce3.netlify.com
 
+Adobe XD file:
+https://github.com/kakax114/navcoin-handoff/blob/master/hi-fi%20mockups.xd
+
 final copy:
 https://docs.google.com/document/d/1hsophdgNjovt3Z--OB5RUOHIxksvQHnxNZGfD0dhApU/edit
 
