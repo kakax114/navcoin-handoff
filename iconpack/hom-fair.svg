@@ -1,0 +1,49 @@
+<svg id="hom-fair" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 70 70">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        opacity: 0.12;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        stroke: #7d5ab5;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-4 {
+        stroke: #009bff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#004aff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#004aff"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_1" data-name="Path 1" class="cls-1" d="M0,0H70V70H0Z"/>
+  <path id="Path_2" data-name="Path 2" class="cls-2" d="M23.333,0A23.333,23.333,0,1,1,0,23.333,23.333,23.333,0,0,1,23.333,0Z" transform="translate(23.333 11.667)"/>
+  <g id="Group_1" data-name="Group 1">
+    <path id="Path_3" data-name="Path 3" class="cls-3" d="M54.49,28.549H34.616"/>
+    <path id="Path_4" data-name="Path 4" class="cls-3" d="M946.6,3139.7a9.962,9.962,0,0,0,19.918,0" transform="translate(-911.984 -3111.151)"/>
+    <path id="Path_5" data-name="Path 5" class="cls-3" d="M966.474,3118.51l-9.959-16.308L946.6,3118.51" transform="translate(-911.984 -3089.959)"/>
+    <path id="Path_6" data-name="Path 6" class="cls-3" d="M44.575,12.24H31.485"/>
+    <path id="Path_7" data-name="Path 7" class="cls-3" d="M889.218,3139.7a9.962,9.962,0,0,1-19.918,0" transform="translate(-868.3 -3111.151)"/>
+    <path id="Path_8" data-name="Path 8" class="cls-3" d="M1,28.549H20.918"/>
+    <path id="Path_9" data-name="Path 9" class="cls-3" d="M869.3,3118.51l9.959-16.308,9.959,16.308" transform="translate(-868.3 -3089.959)"/>
+    <path id="Path_10" data-name="Path 10" class="cls-3" d="M10.915,12.24h13.09"/>
+    <path id="Path_11" data-name="Path 11" class="cls-4" d="M27.658,16.111V49.467"/>
+    <path id="Path_12" data-name="Path 12" class="cls-3" d="M17.7,49.466H37.66v5.958H17.7Z"/>
+    <path id="Path_13" data-name="Path 13" class="cls-3" d="M13.046,55.424H42.314V61.9H13.046Z"/>
+    <ellipse id="Ellipse_1" data-name="Ellipse 1" class="cls-4" cx="3.827" cy="3.87" rx="3.827" ry="3.87" transform="translate(23.831 8.37)"/>
+  </g>
+</svg>
